@@ -1,0 +1,64 @@
+{
+  "menu": [
+    {
+      "id": "1",
+      "name": "adobo",
+      "price": 70,
+      "availableOrderQty": 10
+    },
+    {
+      "id": "2",
+      "name": "rice",
+      "price": 15,
+      "availableOrderQty": 999999
+    },
+    {
+      "id": "365a",
+      "name": "sinigang",
+      "price": 50,
+      "availableOrderQty": 2
+    },
+    {
+      "id": "1fed",
+      "name": "egg rice",
+      "price": 120,
+      "availableOrderQty": 3
+    },
+    {
+      "id": "760f",
+      "name": "papaitan",
+      "price": 120,
+      "availableOrderQty": 2
+    },
+    {
+      "id": "109d",
+      "name": "kaldereta",
+      "price": 80,
+      "availableOrderQty": 999999
+    }
+  ],
+  "orders": [
+    {
+      "items": {
+        "adobo": 1,
+        "rice": 3
+      },
+      "totals": 115
+    },
+    {
+      "id": "d226",
+      "items": {
+        "adobo": 1,
+        "papaitan": 1
+      },
+      "totals": 190
+    },
+    {
+      "id": "41b1",
+      "items": {
+        "kaldereta": 1
+      },
+      "totals": 80
+    }
+  ]
+}

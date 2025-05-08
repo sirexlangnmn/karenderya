@@ -1,0 +1,10 @@
+navButton: {
+    backgroundColor: '#2196F3',
+    padding: 10,
+    borderRadius: 8,
+  },
+  navButtonText: {
+    color: '#fff',
+    fontWeight: 'bold',
+  },
+  
